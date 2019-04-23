@@ -7,4 +7,8 @@ public class Test1 {
 System.out.println("Hello world!");
 	}
 
+	public String returString()
+	{
+		return "Testing String now!";
+	}
 }
