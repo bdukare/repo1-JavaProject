@@ -1,7 +1,6 @@
-public class Test2
-{
-public String me()
-{
-return "ME";
+package com.dukes;
+public class Test2{
+public String me(){
+  return "ME";
 }
 }
